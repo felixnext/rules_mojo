@@ -1,4 +1,6 @@
-# Python Rules for Bazel
+# Mojo Rules for Bazel
+
+> 🚨 Fork of Python Rules to be adapted for Mojo - Work in Progress 🚨
 
 [![Build status](https://badge.buildkite.com/0bcfe58b6f5741aacb09b12485969ba7a1205955a45b53e854.svg?branch=main)](https://buildkite.com/bazel/rules-python-python)
 
